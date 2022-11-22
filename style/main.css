@@ -69,7 +69,7 @@ h1.title {
 .best-container {
     position: relative;
     display: inline-block;
-    background: #ff3636;
+    background: #f068f9;
     padding: 15px 25px;
     font-size: 25px;
     height: 25px;
@@ -127,7 +127,7 @@ p {
 }
 
 a {
-    color: #776e65;
+    color: #ffffff;
     font-weight: bold;
     text-decoration: underline;
     cursor: pointer;
@@ -188,7 +188,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #bbada0;
+    background: #f068f9;
     border-radius: 6px;
     width: 500px;
     height: 500px;
